@@ -1,0 +1,1 @@
+The command 'uname' without any option prints the name of the operating system kernel. For example, on an Ubuntu VM, running the 'uname' command prints 'Linux'.
